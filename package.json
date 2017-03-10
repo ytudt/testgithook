@@ -17,9 +17,6 @@
   },
   "homepage": "https://github.com/ytudt/testgithook#readme",
   "dependencies": {
-    "angular": "^1.6.3",
-    "vue-resource": "^1.0.3",
-    "vue-router": "^2.1.1",
-    "vuex": "^2.1.1",
+    "angular": "^1.6.3"
   }
 }

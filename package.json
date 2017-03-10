@@ -1,0 +1,22 @@
+{
+  "name": "pwd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ytudt/testgithook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ytudt/testgithook/issues"
+  },
+  "homepage": "https://github.com/ytudt/testgithook#readme",
+  "dependencies": {
+    "angular": "^1.6.3"
+  }
+}
